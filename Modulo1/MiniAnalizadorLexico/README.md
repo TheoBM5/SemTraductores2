@@ -1,5 +1,5 @@
 
-# Mini analizador Lexico #
+# Mini generador léxico #
 
 
 En esta primera practica se realizo un mini analizador lexico. Los tokens que validara tanto valores reales asi como identificadores. 

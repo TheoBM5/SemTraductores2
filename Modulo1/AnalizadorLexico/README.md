@@ -18,7 +18,7 @@ Para realizar esta practica se tomo como referencia la siguiente tabla:
 | opSuma | 5 | + , - |
 | opMul | 6 | * , / |
 | opRelac | 7 | <, <=, >, >= |
-| opOr | 8 | || |
+| opOr | 8 | II |
 | opAnd | 9 | && |
 | opNot | 10 | ! |
 | opIgualdad | 11 | == , != | 

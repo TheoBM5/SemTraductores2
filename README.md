@@ -39,3 +39,20 @@ Para realizar esta practica se tomo como referencia la siguiente tabla:
   El analizador funciona correctamente, se validaron todos lo caracteres que se mencionan en la tabla 
   tengo simplificar u ordenar el codigo creo que quedo muy disperso, ademas la salida parace algo desordenada. 
   
+  # Analizador Sintactico #
+  En esta practica se realializo un analizador sintactico con dos funciones para cada una de las siguientes reglas
+  Ejercicio 1: E->id+id
+  
+  |  | Id | + | $ | E |
+  | :--: |:----:| :-----:|
+  | 0 | d2 |  |  | 1 |
+  | 1 |  |  | r0 |   | 
+  | 2 |  | d3 |   |   |   
+  | 3 | d4 |  |   |   | 
+  | 4 |  |  | r1 | | 
+  Ejercicio 2: E->id+E|id
+  
+  
+
+
+  

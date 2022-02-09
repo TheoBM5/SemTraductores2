@@ -51,6 +51,8 @@ Para realizar esta practica se tomo como referencia la siguiente tabla:
   | 3 | d4 |   |   |   | 
   | 4 |    |   | r1|   | 
   
+  [![captura-Analizador-Sintactico1.jpg](https://i.postimg.cc/v8kYrpG8/captura-Analizador-Sintactico1.jpg)](https://postimg.cc/dDRcvN7g)
+  
   Ejercicio 2: E->id+E|id
   
   |   | Id | + | $ | E |

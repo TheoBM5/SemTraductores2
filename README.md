@@ -50,8 +50,16 @@ Para realizar esta practica se tomo como referencia la siguiente tabla:
   | 2 |    | d3|   |   |   
   | 3 | d4 |   |   |   | 
   | 4 |    |   | r1|   | 
+  
   Ejercicio 2: E->id+E|id
   
+  |   | Id | + | $ | E |
+  | - |:--:|:-:|:-:|:-:|
+  | 0 | d2 |   |   | 1 |
+  | 1 |    |   |r0 |   | 
+  | 2 |    | d3|r2 |   |   
+  | 3 | d2 |   |   | 4 | 
+  | 4 |    |   | r1|   | 
   
 
 

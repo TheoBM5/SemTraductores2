@@ -64,5 +64,7 @@ Para realizar esta practica se tomo como referencia la siguiente tabla:
   | 4 |    |   | r1|   | 
   
 
-
-  
+# Pila de objetos #
+En esta practica se paso de usar una pila de numeros enteros a tener una pila con objetos del tipo elemento pila. En esta practica me tarde mas no terminaba de 
+entender el objetivo pero viendo los ejemplos de los ejercicios de los pdf de la plataforma y con la explicacion del profesor en la clase, aclarando las dudas que 
+tenia pude terminar la practica

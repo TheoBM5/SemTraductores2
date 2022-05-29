@@ -8,4 +8,4 @@ Por cada regla se creo una clase que heredaba de la clase nodo. cada uno de de e
 ligada, una vez que todo el proceso fue realizado se llama al metodo muestra, haciendo uso de polimorfismo se logro que en cada llamada al metodo muestre 
 se imprimiera de acuerdo a su regla
 
-[![Sintactico.png](https://i.postimg.cc/RVccTqNK/Sintactico.png)](https://postimg.cc/F7HdrrbH)
+[![a9cc6d3192dd484a1ae19e27acc247f5.png](https://i.postimg.cc/cCqn0LqZ/a9cc6d3192dd484a1ae19e27acc247f5.png)](https://postimg.cc/phZTBxX1)

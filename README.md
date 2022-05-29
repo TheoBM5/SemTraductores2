@@ -81,4 +81,4 @@ Una vez que se llegaba a la parte de desapilar lo que realice fue llamar a una f
 con clases de cada una de las reglas que contiene los archivos proporcionados. 
 Por cada regla se creo una clase que heredaba de la clase nodo. 
 
-[![Sintactico.png](https://i.postimg.cc/RVccTqNK/Sintactico.png)](https://postimg.cc/F7HdrrbH)
+[![a9cc6d3192dd484a1ae19e27acc247f5.png](https://i.postimg.cc/cCqn0LqZ/a9cc6d3192dd484a1ae19e27acc247f5.png)](https://postimg.cc/phZTBxX1)

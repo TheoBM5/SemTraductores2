@@ -71,3 +71,14 @@ tenia pude terminar la practica. Con las pilas de objetos se intenta conservar l
 Para esta practica se modifico el archivo pila.h para crear nuevas clases. Primero la clase ElementoPila apartir de la cual se crearon otras tres clases Estado, Terminal y Noterminal. En el pila.cpp se modifico para que la pila aceptara objetos y en el main se cambiaron las entradas de los push para que no se ingresaran enteros sino objetos de elementoPila
 
 [![Vs-Debug-Console-aea-JAl-Dj-Rv.png](https://i.postimg.cc/LX2GFmGN/Vs-Debug-Console-aea-JAl-Dj-Rv.png)](https://postimg.cc/Mc39yJ6Q)
+
+
+# Analizador sintactico #
+En esta practica se implemento el codigo del analizador sintactico, se siguio el algoritmo visto en clase donde segun la regla se ingresaban
+valores a la pia o se desapilaban.
+
+Una vez que se llegaba a la parte de desapilar lo que realice fue llamar a una funcion reglas en la cual se tiene un switch
+con clases de cada una de las reglas que contiene los archivos proporcionados. 
+Por cada regla se creo una clase que heredaba de la clase nodo. 
+
+[![Sintactico.png](https://i.postimg.cc/RVccTqNK/Sintactico.png)](https://postimg.cc/F7HdrrbH)
